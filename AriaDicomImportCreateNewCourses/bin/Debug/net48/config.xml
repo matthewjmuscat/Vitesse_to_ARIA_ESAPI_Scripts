@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+    <StoragePath>H:\CCSI\PlanningModule\Physics Patient QA\VitesseBackup\Vitesse DICOM Archive1</StoragePath>
+    <VitesseBackupFolderName>Vitesse Backup</VitesseBackupFolderName>
+
+    <SelectionMode>Indices</SelectionMode>  <!-- Options: "Range" or "Indices" -->
+    <StartIndex>8</StartIndex>
+    <EndIndex>8</EndIndex>
+    <Indices>155</Indices> <!-- Only used if SelectionMode is "Indices" -->
+</Configuration>

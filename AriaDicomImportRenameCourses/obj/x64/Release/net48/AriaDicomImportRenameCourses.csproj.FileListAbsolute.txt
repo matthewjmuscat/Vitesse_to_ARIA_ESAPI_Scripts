@@ -1,0 +1,15 @@
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\bin\x64\Release\net48\AriaDicomImportRenameCourses.exe.config
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\bin\x64\Release\net48\AriaDicomImportRenameCourses.exe
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\bin\x64\Release\net48\AriaDicomImportRenameCourses.pdb
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\bin\x64\Release\net48\EvilDICOM.dll
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\bin\x64\Release\net48\System.ValueTuple.dll
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\bin\x64\Release\net48\VMS.TPS.Common.Model.API.dll
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\bin\x64\Release\net48\VMS.TPS.Common.Model.Types.dll
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDicomImportRenameCourses.csproj.AssemblyReference.cache
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDicomImportRenameCourses.GeneratedMSBuildEditorConfig.editorconfig
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDicomImportRenameCourses.AssemblyInfoInputs.cache
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDicomImportRenameCourses.AssemblyInfo.cs
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDicomImportRenameCourses.csproj.CoreCompileInputs.cache
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDico.8D5228F1.Up2Date
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDicomImportRenameCourses.exe
+U:\Documents\BC Cancer\ESAPI scripting\AriaDicomImportRenameCourses\obj\x64\Release\net48\AriaDicomImportRenameCourses.pdb

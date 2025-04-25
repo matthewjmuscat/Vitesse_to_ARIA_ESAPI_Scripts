@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AriaDicomImportCreateNewCourses
+build_property.ProjectDir = \\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaVitesseESAPIScripts\AriaDicomImportCreateNewCourses\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

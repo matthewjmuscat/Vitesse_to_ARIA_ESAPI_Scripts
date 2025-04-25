@@ -1,0 +1,15 @@
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDicomImport.csproj.AssemblyReference.cache
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDicomImport.GeneratedMSBuildEditorConfig.editorconfig
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDicomImport.AssemblyInfoInputs.cache
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDicomImport.AssemblyInfo.cs
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDicomImport.csproj.CoreCompileInputs.cache
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\bin\Debug\net48\AriaDicomImport.exe.config
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\bin\Debug\net48\AriaDicomImport.exe
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\bin\Debug\net48\AriaDicomImport.pdb
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\bin\Debug\net48\EvilDICOM.dll
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\bin\Debug\net48\System.ValueTuple.dll
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\bin\Debug\net48\VMS.TPS.Common.Model.API.dll
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\bin\Debug\net48\VMS.TPS.Common.Model.Types.dll
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDico.95D82D36.Up2Date
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDicomImport.exe
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net48\AriaDicomImport.pdb

@@ -1,0 +1,5 @@
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net8.0\AriaDicomImport.csproj.AssemblyReference.cache
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net8.0\AriaDicomImport.GeneratedMSBuildEditorConfig.editorconfig
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net8.0\AriaDicomImport.AssemblyInfoInputs.cache
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net8.0\AriaDicomImport.AssemblyInfo.cs
+\\PHSAhome2.phsabc.ehcnet.ca\matthew.muscat\Documents\BC Cancer\ESAPI scripting\AriaDicomImport\AriaDicomImport\obj\Debug\net8.0\AriaDicomImport.csproj.CoreCompileInputs.cache
